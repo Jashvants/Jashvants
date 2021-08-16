@@ -4,7 +4,7 @@
 
 ## I'm a  Developer, and Trader !!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Blockchain.
 - 👯 I’m currently working on BlockChain Development.
 - 🥅 Have A community Of 100k+ In Telegram
 - ⚡ Fun fact: I love trading In Crypto Currency.
