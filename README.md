@@ -2,7 +2,7 @@
 
 
 
-## I'm a  Developer, and Trader !!
+## I'm a  Blockchain Developer!!
 
 - 🌱 I’m currently learning Blockchain.
 - 👯 I’m currently working on BlockChain Development.
