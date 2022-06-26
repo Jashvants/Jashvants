@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Blockchain.
 - 👯 I’m currently working on BlockChain Development.
-- 🥅 Have A community Of 100k+ In Telegram
+- 🥅 Improving Problem solving Skills in DSA.
 - ⚡ Fun fact: I love trading In Crypto Currency.
 
 ### Connect with me:
