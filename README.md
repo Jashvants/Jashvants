@@ -4,8 +4,8 @@
 
 ## I'm a  Blockchain Developer!!
 
-- 🌱 I’m currently learning Blockchain.
-- 👯 I’m currently working on BlockChain Development.
+- 🌱 I’m currently learning Blockchain Developement.
+- 👯 I’m currently working on Solidity Smart contract, web3,Dapps.
 - 🥅 Improving Problem solving Skills in DSA.
 - ⚡ Fun fact: I love trading In Crypto Currency.
 
