@@ -39,4 +39,4 @@
 
 [twitter]: https://twitter.com/JashvantSharma
 [instagram]: https://instagram.com/jashvant_sharma
-[linkedin]: hlinkedin.com/in/jashvant-sharma-b275491a2
+[linkedin]: https://linkedin.com/in/jashvant-sharma-b275491a2
